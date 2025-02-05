@@ -39,7 +39,7 @@ namespace connectToApi.Controllers
 
         // POST api/<ValuesController>
         [HttpPost]
-        public async Task<string> Post([FromBody] string value)
+        public async Task<string> Post()
         {
             string url = "https://jsonplaceholder.typicode.com/posts";
           string json=  "{\"userId\": 1, \"id\": 1, \"title\": \"sunt aut facere\", \"body\": \"quia et suscipit\"}";
