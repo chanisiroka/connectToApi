@@ -42,10 +42,9 @@ namespace connectToApi.Controllers
         public async Task<string> Post([FromBody] string value)
         {
             string url = "https://jsonplaceholder.typicode.com/posts";
-            string json =`"{\"userId\":\"1\",\"id\":\"1\",
-\"title\":\"sunt aut facere repellat provident occaecati excepturi optio reprehenderit\",
-\"body\": \"quia et suscipit\"}`; 
-            var content=new StringContent(json,Encoding.UTF8, "application/json");
+          string json=  "{\"userId\": 1, \"id\": 1, \"title\": \"sunt aut facere\", \"body\": \"quia et suscipit\"}";
+
+            var content =new StringContent(json,Encoding.UTF8, "application/json");
             using (HttpClient client = new HttpClient())
             {
                 client.DefaultRequestHeaders.Add("Authorization", "Bearer ");
