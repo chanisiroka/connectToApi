@@ -1,0 +1,17 @@
+H:\שנה ב\c#++\ModelLayer\Mock\bin\Debug\net6.0\Mock.deps.json
+H:\שנה ב\c#++\ModelLayer\Mock\bin\Debug\net6.0\Mock.runtimeconfig.json
+H:\שנה ב\c#++\ModelLayer\Mock\bin\Debug\net6.0\Mock.dll
+H:\שנה ב\c#++\ModelLayer\Mock\bin\Debug\net6.0\Mock.pdb
+H:\שנה ב\c#++\ModelLayer\Mock\bin\Debug\net6.0\Repository.dll
+H:\שנה ב\c#++\ModelLayer\Mock\bin\Debug\net6.0\Repository.pdb
+H:\שנה ב\c#++\ModelLayer\Mock\obj\Debug\net6.0\Mock.csproj.AssemblyReference.cache
+H:\שנה ב\c#++\ModelLayer\Mock\obj\Debug\net6.0\Mock.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\c#++\ModelLayer\Mock\obj\Debug\net6.0\Mock.AssemblyInfoInputs.cache
+H:\שנה ב\c#++\ModelLayer\Mock\obj\Debug\net6.0\Mock.AssemblyInfo.cs
+H:\שנה ב\c#++\ModelLayer\Mock\obj\Debug\net6.0\Mock.csproj.CoreCompileInputs.cache
+H:\שנה ב\c#++\ModelLayer\Mock\obj\Debug\net6.0\Mock.csproj.CopyComplete
+H:\שנה ב\c#++\ModelLayer\Mock\obj\Debug\net6.0\Mock.dll
+H:\שנה ב\c#++\ModelLayer\Mock\obj\Debug\net6.0\refint\Mock.dll
+H:\שנה ב\c#++\ModelLayer\Mock\obj\Debug\net6.0\Mock.pdb
+H:\שנה ב\c#++\ModelLayer\Mock\obj\Debug\net6.0\Mock.genruntimeconfig.cache
+H:\שנה ב\c#++\ModelLayer\Mock\obj\Debug\net6.0\ref\Mock.dll
